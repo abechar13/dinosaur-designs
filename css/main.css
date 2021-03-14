@@ -37,3 +37,16 @@ nav a {
   color: #793284;
   text-decoration: underline;
 }
+
+nav a:hover {
+  color: #b42885;
+  text-decoration: underline;
+}
+
+.intro {
+  font-size:1rem;
+}
+
+h1, h2 {
+  font-family: 'Patua One', sans-serif;
+}
